@@ -1,4 +1,4 @@
-# Anubhav Mishra  
+## Frontend Developer  
 
 🎓 **Bachelor of Technology (B.Tech) in Computer Science and Engineering**  
 Kamla Nehru Institute of Technology, Sultanpur (2022-2026)  
